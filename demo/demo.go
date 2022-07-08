@@ -13,7 +13,6 @@ func NewDemo(rds *redis.Client) *Demo {
 		redis: rds,
 	}
 }
-
 func TestDemo1(a int) int {
 	return a + 12
 }
