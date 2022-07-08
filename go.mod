@@ -1,4 +1,4 @@
-module github.com/seanshenhy/go-mod-demo/v2
+module github.com/seanshenhy/go-mod-demo
 
 go 1.16
 
